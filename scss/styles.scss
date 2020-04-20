@@ -9,15 +9,15 @@ body {
 h1, h2, h3 {
     color: $fontcolor;
 } 
-.imgs {
+.imgs {  
     max-width: 100%;
     height: auto;
 }
 div .imgs {
-    display: block;
-}
-.img {
-    max-width:100%;
+    display: block; 
+} 
+img {
+    max-width:100%; 
     height:auto;
 } 
 .mybutton {
